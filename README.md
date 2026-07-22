@@ -3,7 +3,7 @@
 An end-to-end Machine Learning pipeline designed to predict customer churn for a banking institution. This repository features data cleaning, Exploratory Data Analysis (EDA), an optimized **XGBoost Classifier** tuned via **GridSearchCV**, and risk-stratified predictions evaluated on test data and exported directly for **Tableau Dashboard** integration.
 
 ## 🔗 Quick Links
-* **Interactive Tableau Dashboard:** [Link to your Tableau Public Profile](https://public.tableau.com/views/BankChurnXGBoostAnalysis/BankChurnPredictiveAnalyticsDashboardXGBoostModel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **Interactive Tableau Dashboard:** [Link to my Tableau Public Profile](https://public.tableau.com/views/BankChurnXGBoostAnalysis/BankChurnPredictiveAnalyticsDashboardXGBoostModel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Data Sources:** `train.csv` (Model Training) & `test.csv` (Out-of-sample Predictions)
 
 ---
